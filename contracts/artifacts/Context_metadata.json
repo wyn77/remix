@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.15+commit.e14f2714"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/CakePool.sol": "Context"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/CakePool.sol": {
+			"keccak256": "0x7567069179b012bd0b8829a8a8db92e26bf1bc80088e601de8de6091bec991db",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://887e833ad0b6cfb957b1d249ea858b619cd15cf5bc31255574c390b2d3225b5c",
+				"dweb:/ipfs/QmUBpRFv9bA7X3ojSzm4xRm8RS3MdR8nDRx85j29aUmTth"
+			]
+		}
+	},
+	"version": 1
+}

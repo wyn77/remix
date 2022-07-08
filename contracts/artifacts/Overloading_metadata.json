@@ -1,0 +1,61 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/16_Overloading.sol": "Overloading"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/16_Overloading.sol": {
+			"keccak256": "0xe85dc0bdd3dbb0208a98a8a6423c74c86dfc55586bcb0e0e3d16f38b67fd3a0b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://9db18ec9f827e9a7d2cdfbd46ca3eb469f491b8d61115cd331b54e203d58765a",
+				"dweb:/ipfs/Qmash3G2Uu9Vc6WieAgSmQuvTw7fd3nQrX2eUnqqzAD9fN"
+			]
+		},
+		"https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/Address.sol": {
+			"keccak256": "0x9720545d8ea1f76222f98683f861f919e9c28bd5d5503caa7e3620a21b6aaa24",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://fe3dac0e0258d8396c33fd27c277699a9bfac198f2cb45632c4f5df2c2ca895a",
+				"dweb:/ipfs/QmfEWsX7aGpWN9wooHiQo1XjiGM1h6iXeaeMTAJ1TUcnts"
+			]
+		},
+		"utils/Strings.sol": {
+			"keccak256": "0x4cf35e2c967808ede24769c25e7595dd6e4b15e75e1fb2d7e65dd528c18a3d3b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ac38408baec0679fc3c9a45c126db1c06cf575ed7e61509b96d72c5b03e0869b",
+				"dweb:/ipfs/QmeJZR8k7pQ95z8hFkFwq7Pj4RviQyABkTyksvrSo6otZB"
+			]
+		}
+	},
+	"version": 1
+}

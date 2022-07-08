@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/MFI_HECO_PATCH.sol": "SafeMath"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/MFI_HECO_PATCH.sol": {
+			"keccak256": "0x6ae525776e4488547af8849596414ec9fb36fda0d8db305c104ed081c71ccec0",
+			"urls": [
+				"bzz-raw://b2778322a5cc6c486e97306ce248e1f150e755f965d856cbed59bb2e965bc260",
+				"dweb:/ipfs/QmR6EAmSeNHPeyfQgETQP6ShDuimQCzpuXvMmCT1bDQfxg"
+			]
+		}
+	},
+	"version": 1
+}

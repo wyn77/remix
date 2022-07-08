@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "arrayPush",
+				"outputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "",
+						"type": "uint256[]"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "arrayPush1",
+				"outputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "array4",
+						"type": "uint256[]"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/16_Overloading.sol": "HelloWeb3"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/16_Overloading.sol": {
+			"keccak256": "0xafbfb30c0b3427bc76428257056b4c9fce089f208f633cece17ac47c04f56c2a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://815c48f95bc1448e7e26062ce157744530e3898dcab922890595420e8c9f2ec8",
+				"dweb:/ipfs/QmU1pkR1rkqtZF7PV7kv5fj7etKSM6oiKpqsu2peTyY2Vh"
+			]
+		}
+	},
+	"version": 1
+}
